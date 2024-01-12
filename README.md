@@ -1,6 +1,7 @@
 # YouTube-Speech-to-text-to-subtitle
  create video with subtitle from youtube video
-![subtitle gif](./subtitle_demo.gif)
+![demo video with subtitle](./video/PLiWjL5O2rE_caped.mp4)
+
 ## How it works
 1. download youtube video from a url
 
