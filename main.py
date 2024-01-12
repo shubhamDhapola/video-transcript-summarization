@@ -13,7 +13,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO, stream=sys.stdout)
 
 # change url to your youtube video url
-url = "https://www.youtube.com/watch?v=PLiWjL5O2rE"
+url = "https://www.youtube.com/watch?v=PZ-GvIOhcf8"
 video_dir = "./video"
 subtitle_dir = "./subtitle"
 
@@ -21,8 +21,8 @@ def create_sub(id:str, video_dir:str, subtitle_dir:str)-> None:
     video_path = os.path.join(video_dir, id +'.mp4')
     srt_path = os.path.join(subtitle_dir, id +'.srt')
     main_video = VideoFileClip(video_path)
-    generator = lambda txt: TextClip(txt, font="arial", fontsize=50, color="white", bg_color="black",
-                                    method='caption', size=(main_video.size[0], 50))
+    generator = lambda txt: TextClip(txt, font="arial", fontsize=50, color="white",
+                                    method='caption')
 
     sub_clip = SubtitlesClip(srt_path, generator).set_position('bottom')
     result = CompositeVideoClip((main_video, sub_clip), size=main_video.size)
