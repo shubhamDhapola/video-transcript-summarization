@@ -29,7 +29,7 @@ diaphragm moves down. This creates more space in
 
 8
 00:00:31,455 --> 00:00:34,175
-your thoracic cavity, and your heart actually gets
+your thoracic cavity and your heart actually gets
 
 9
 00:00:34,175 --> 00:00:36,750
@@ -53,7 +53,7 @@ the sinoatrial node. That signal goes up to
 
 14
 00:00:47,195 --> 00:00:49,595
-the brain, and your brain sends a signal
+the brain and your brain sends a signal
 
 15
 00:00:49,595 --> 00:00:52,175
@@ -88,11 +88,11 @@ blood flows more quickly through that smaller volume.
 The sinoatrial node registers that and sends a
 
 23
-00:01:12,310 --> 00:01:14,710
+00:01:12,310 --> 00:01:14,630
 signal to your brain, and the brain sends
 
 24
-00:01:14,710 --> 00:01:17,455
+00:01:14,630 --> 00:01:17,455
 a signal to slow the heart down. So
 
 25
@@ -108,61 +108,61 @@ up, exhaling slows your heart rate down. So
 if you want to speed up your heart
 
 28
-00:01:24,255 --> 00:01:27,560
-rate and be more alert, Inhale more or
+00:01:24,255 --> 00:01:27,640
+rate and be more alert, inhale more or
 
 29
-00:01:27,560 --> 00:01:31,640
+00:01:27,640 --> 00:01:31,640
 make those inhales more vigorous, more intense. If
 
 30
-00:01:31,640 --> 00:01:34,075
-you wanna calm down, You can do that
+00:01:31,640 --> 00:01:33,755
+you want to calm down, you can do
 
 31
-00:01:34,075 --> 00:01:36,635
-quickly by making your exhale slightly longer than
+00:01:33,755 --> 00:01:36,395
+that quickly by making your exhale slightly longer
 
 32
-00:01:36,635 --> 00:01:39,995
-your inhales or making them more vigorous. This
+00:01:36,395 --> 00:01:39,295
+than your inhales, or making them more vigorous.
 
 33
-00:01:39,995 --> 00:01:41,915
-doesn't require any breath work. This is something
+00:01:39,755 --> 00:01:41,675
+This doesn't require any breath work. This is
 
 34
-00:01:41,915 --> 00:01:44,290
-that you can do in real time. And
+00:01:41,675 --> 00:01:43,670
+something that you can do in real time.
 
 35
-00:01:44,290 --> 00:01:48,050
-that's what's called respiratory sinus arrhythmia. That's the
+00:01:44,130 --> 00:01:47,890
+And that's what's called respiratory sinus arrhythmia. That's
 
 36
-00:01:48,050 --> 00:01:50,370
-technical phrase. It's also the basis of what's
+00:01:47,890 --> 00:01:50,130
+the technical phrase. It's also the basis of
 
 37
-00:01:50,370 --> 00:01:53,575
-called heart rate variability or HRV. But all
+00:01:50,130 --> 00:01:53,415
+what's called heart rate variability or HRV. But
 
 38
-00:01:53,575 --> 00:01:56,295
-you need to remember is inhaling deeper and
+00:01:53,415 --> 00:01:56,135
+all you need to remember is inhaling deeper
 
 39
-00:01:56,295 --> 00:01:59,035
-longer will speed your heart rate up. Exhaling
+00:01:56,135 --> 00:01:58,315
+and longer will speed your heart rate up.
 
 40
-00:01:59,490 --> 00:02:01,730
-Longer and more intensely will slow your heart
+00:01:58,535 --> 00:02:01,490
+Exhaling longer and more intensely will slow your
 
 41
-00:02:01,730 --> 00:02:03,410
-rate down and will allow you to calm
+00:02:01,490 --> 00:02:03,090
+heart rate down and will allow you to
 
 42
-00:02:03,410 --> 00:02:04,310
-down in
+00:02:03,090 --> 00:02:04,710
+calm down in real time.

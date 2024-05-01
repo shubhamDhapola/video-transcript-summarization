@@ -10,6 +10,7 @@ def download_youtube_video(url:str, path:str ,file_type='mp4')-> tuple[str, str]
     stream = yt.streams.first()
     logging.info(f"Downloading {yt.title}...")
     id = extract.video_id(url)
+    # id=1
     yt.streams.filter(progressive=True, file_extension=file_type).order_by('resolution').desc().first().download(output_path=path, filename=id+".mp4")
 
     logging.info(f"Video id: {id} download complete.")

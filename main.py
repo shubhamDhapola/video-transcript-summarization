@@ -1,5 +1,7 @@
 from STT import speech_to_text
 from STT import extract_data
+from STT import generate_summary
+
 from downloader import download_youtube_video
 from moviepy.video.tools.subtitles import SubtitlesClip
 from moviepy.editor import TextClip, CompositeVideoClip, VideoFileClip
@@ -37,6 +39,7 @@ def main():
     title, id = download_youtube_video(url=url, path=video_dir)
     speech_to_text(id=id, video_dir=video_dir, subtitle_dir=subtitle_dir)
     create_sub(id=id, video_dir=video_dir, subtitle_dir=subtitle_dir)
+    generate_summary(id=id, subtitle_dir=subtitle_dir)
     return None
 
 if __name__ == "__main__":
